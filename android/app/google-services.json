@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042234455725",
+    "project_id": "uas-topikkhusus",
+    "storage_bucket": "uas-topikkhusus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042234455725:android:7d5332058f1bc2585e7824",
+        "android_client_info": {
+          "package_name": "com.example.uas_topikkhusus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042234455725-5k6trethclc2ithrcmck73c77et7mh90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNvo1m5hehRhldI4jjyI0_t5GEcNuQKOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042234455725-5k6trethclc2ithrcmck73c77et7mh90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
